@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
+    "noStrictGenericChecks": true,
+    "lib": ["es2016", "dom"],
+    "outDir": "../out-tsc/app",
+    "target": "es5",
+    "module": "commonjs",
+    "baseUrl": "",
+    "rootDir": "./",
+    "strict": true,
+    "paths": {
+      "@antidote/core": ["./modules/core"]
+    }
+  },
+  "exclude": ["bazel-out", "dist", "node_modules", "**/*/node_modules"],
+  "compileOnSave": false,
+  "buildOnSave": false,
+  "bazelOptions": {
+    "suppressTsconfigOverrideWarnings": true
+  }
+}

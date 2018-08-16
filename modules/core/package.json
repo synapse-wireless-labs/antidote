@@ -1,0 +1,21 @@
+{
+  "name": "@antidote/core",
+  "version": "0.0.0-PLACEHOLDER",
+  "description": "Dependency injection container for JavaScript and TypeScript apps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synapse-wireless-labs/antidote.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Dependency Injection",
+    "Inversion of Control"
+  ],
+  "author": "Mike Ryan <mike.ryan52@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synapse-wireless-labs/antidote/issues"
+  },
+  "homepage": "https://github.com/synapse-wireless-labs/antidote#readme",
+  "sideEffects": false
+}

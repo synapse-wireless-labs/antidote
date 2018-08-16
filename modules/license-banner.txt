@@ -1,0 +1,5 @@
+/**
+ * @license Synapse Wireless 0.0.0-PLACEHOLDER
+ * (c) 2018 Synapse Wireless, inc
+ * License: MIT
+ */
